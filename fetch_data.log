@@ -14,3 +14,11 @@
 2024-11-27 12:33:15,561 - __main__ - WARNING - Error message in 200 response: account queued for update, position in line : 1
 2024-11-27 12:33:15,562 - __main__ - INFO - completed processing account: 314620159
 2024-11-27 12:33:15,562 - __main__ - INFO - COMPLETE EXECUTE
+2024-11-28 01:17:09,652 - __main__ - DEBUG - getting env var: DATA_PATH
+2024-11-28 01:17:09,652 - __main__ - DEBUG - couldn't get env var DATA_PATH - using default: data
+2024-11-28 01:17:09,652 - __main__ - INFO - START EXECUTE
+2024-11-28 01:17:09,653 - __main__ - INFO - processing account: 314620159
+2024-11-28 01:17:09,653 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159.json
+2024-11-28 01:17:10,102 - __main__ - WARNING - Error message in 200 response: account queued for update, position in line : 1
+2024-11-28 01:17:10,103 - __main__ - INFO - completed processing account: 314620159
+2024-11-28 01:17:10,103 - __main__ - INFO - COMPLETE EXECUTE
