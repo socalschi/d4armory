@@ -78,3 +78,22 @@
 2024-11-30 01:15:09,184 - __main__ - INFO - has logged in since last check: True
 2024-11-30 01:15:09,184 - __main__ - INFO - completed processing account: 314620159
 2024-11-30 01:15:09,184 - __main__ - INFO - COMPLETE EXECUTE
+2024-11-30 12:29:42,739 - __main__ - DEBUG - getting env var: DATA_PATH
+2024-11-30 12:29:42,739 - __main__ - DEBUG - couldn't get env var DATA_PATH - using default: data
+2024-11-30 12:29:42,739 - __main__ - INFO - START EXECUTE
+2024-11-30 12:29:42,739 - __main__ - INFO - processing account: 314620159
+2024-11-30 12:29:42,739 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159.json
+2024-11-30 12:29:43,029 - __main__ - INFO - fetching character id: missing name - 91ba5950-5415-11ef-a663-69f159cb7bb4
+2024-11-30 12:29:43,030 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/91ba5950-5415-11ef-a663-69f159cb7bb4.json
+2024-11-30 12:29:43,157 - __main__ - INFO - last login: 2288912640
+2024-11-30 12:29:43,157 - __main__ - WARNING - character hasn't logged in since last fetch
+2024-11-30 12:29:43,157 - __main__ - INFO - has logged in since last check: False
+2024-11-30 12:29:43,157 - __main__ - INFO - fetching character id: Biscathy - 7dfcfa70-ab96-11ef-b44b-856e38926482
+2024-11-30 12:29:43,157 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/7dfcfa70-ab96-11ef-b44b-856e38926482.json
+2024-11-30 12:29:43,304 - __main__ - INFO - last login: 1732883560
+2024-11-30 12:29:43,304 - __main__ - INFO - has logged in since last check: True
+2024-11-30 12:29:43,305 - __main__ - INFO - fetching character id: missing name - 2a1ae4b9-e9ea-4ccc-9d28-99218c325843
+2024-11-30 12:29:43,305 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/2a1ae4b9-e9ea-4ccc-9d28-99218c325843.json
+2024-11-30 12:29:43,442 - __main__ - INFO - has logged in since last check: True
+2024-11-30 12:29:43,442 - __main__ - INFO - completed processing account: 314620159
+2024-11-30 12:29:43,442 - __main__ - INFO - COMPLETE EXECUTE
