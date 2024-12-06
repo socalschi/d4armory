@@ -370,3 +370,30 @@
 2024-12-06 01:17:53,284 - __main__ - INFO - has logged in since last check: False
 2024-12-06 01:17:53,284 - __main__ - INFO - completed processing account: 314620159
 2024-12-06 01:17:53,285 - __main__ - INFO - COMPLETE EXECUTE
+2024-12-06 12:32:53,036 - __main__ - DEBUG - getting env var: DATA_PATH
+2024-12-06 12:32:53,036 - __main__ - DEBUG - couldn't get env var DATA_PATH - using default: data
+2024-12-06 12:32:53,036 - __main__ - INFO - START EXECUTE
+2024-12-06 12:32:53,036 - __main__ - INFO - processing account: 314620159
+2024-12-06 12:32:53,036 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159.json
+2024-12-06 12:32:53,215 - __main__ - INFO - fetching character id: missing name - 91ba5950-5415-11ef-a663-69f159cb7bb4
+2024-12-06 12:32:53,216 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/91ba5950-5415-11ef-a663-69f159cb7bb4.json
+2024-12-06 12:32:53,353 - __main__ - INFO - last login: 2288912640
+2024-12-06 12:32:53,354 - __main__ - WARNING - character hasn't logged in since last fetch
+2024-12-06 12:32:53,354 - __main__ - INFO - has logged in since last check: False
+2024-12-06 12:32:53,354 - __main__ - INFO - fetching character id: Biscathy - 7dfcfa70-ab96-11ef-b44b-856e38926482
+2024-12-06 12:32:53,354 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/7dfcfa70-ab96-11ef-b44b-856e38926482.json
+2024-12-06 12:32:53,488 - __main__ - INFO - last login: 1733402011
+2024-12-06 12:32:53,488 - __main__ - INFO - character may have logged in - but no changes
+2024-12-06 12:32:53,489 - __main__ - INFO - has logged in since last check: False
+2024-12-06 12:32:53,489 - __main__ - INFO - fetching character id: missing name - 2a1ae4b9-e9ea-4ccc-9d28-99218c325843
+2024-12-06 12:32:53,489 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/2a1ae4b9-e9ea-4ccc-9d28-99218c325843.json
+2024-12-06 12:32:53,618 - __main__ - INFO - last login: 2288912640
+2024-12-06 12:32:53,618 - __main__ - WARNING - character hasn't logged in since last fetch
+2024-12-06 12:32:53,618 - __main__ - INFO - has logged in since last check: False
+2024-12-06 12:32:53,618 - __main__ - INFO - fetching character id: Biscathy - 50c76d90-89ce-11ef-bb13-2d031a7c8749
+2024-12-06 12:32:53,619 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/50c76d90-89ce-11ef-bb13-2d031a7c8749.json
+2024-12-06 12:32:53,774 - __main__ - INFO - last login: 1733188719
+2024-12-06 12:32:53,774 - __main__ - INFO - character may have logged in - but no changes
+2024-12-06 12:32:53,774 - __main__ - INFO - has logged in since last check: False
+2024-12-06 12:32:53,774 - __main__ - INFO - completed processing account: 314620159
+2024-12-06 12:32:53,775 - __main__ - INFO - COMPLETE EXECUTE
