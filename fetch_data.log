@@ -4872,3 +4872,65 @@
 2025-01-25 01:06:57,629 - __main__ - INFO - has logged in since last check: True
 2025-01-25 01:06:57,630 - __main__ - INFO - completed processing account: 314620159
 2025-01-25 01:06:57,630 - __main__ - INFO - COMPLETE EXECUTE
+2025-01-25 12:26:39,643 - __main__ - DEBUG - getting env var: DATA_PATH
+2025-01-25 12:26:39,643 - __main__ - DEBUG - couldn't get env var DATA_PATH - using default: data
+2025-01-25 12:26:39,643 - __main__ - INFO - START EXECUTE
+2025-01-25 12:26:39,643 - __main__ - INFO - processing account: 314620159
+2025-01-25 12:26:39,643 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159.json
+2025-01-25 12:26:39,960 - __main__ - INFO - fetching character id: missing name - 91ba5950-5415-11ef-a663-69f159cb7bb4
+2025-01-25 12:26:39,960 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/91ba5950-5415-11ef-a663-69f159cb7bb4.json
+2025-01-25 12:26:40,107 - __main__ - INFO - last login: 2288912640
+2025-01-25 12:26:40,107 - __main__ - WARNING - character hasn't logged in since last fetch
+2025-01-25 12:26:40,107 - __main__ - INFO - has logged in since last check: False
+2025-01-25 12:26:40,107 - __main__ - INFO - fetching character id: Biscathy - 7dfcfa70-ab96-11ef-b44b-856e38926482
+2025-01-25 12:26:40,108 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/7dfcfa70-ab96-11ef-b44b-856e38926482.json
+2025-01-25 12:26:40,262 - __main__ - INFO - last login: 1736126136
+2025-01-25 12:26:40,262 - __main__ - INFO - character may have logged in - but no changes
+2025-01-25 12:26:40,262 - __main__ - INFO - has logged in since last check: False
+2025-01-25 12:26:40,263 - __main__ - INFO - fetching character id: missing name - 2a1ae4b9-e9ea-4ccc-9d28-99218c325843
+2025-01-25 12:26:40,263 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/2a1ae4b9-e9ea-4ccc-9d28-99218c325843.json
+2025-01-25 12:26:40,396 - __main__ - INFO - last login: 2288912640
+2025-01-25 12:26:40,396 - __main__ - WARNING - character hasn't logged in since last fetch
+2025-01-25 12:26:40,396 - __main__ - INFO - has logged in since last check: False
+2025-01-25 12:26:40,396 - __main__ - INFO - fetching character id: Biscathy - 50c76d90-89ce-11ef-bb13-2d031a7c8749
+2025-01-25 12:26:40,396 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/50c76d90-89ce-11ef-bb13-2d031a7c8749.json
+2025-01-25 12:26:40,527 - __main__ - INFO - last login: 1737508319
+2025-01-25 12:26:40,527 - __main__ - INFO - character may have logged in - but no changes
+2025-01-25 12:26:40,527 - __main__ - INFO - has logged in since last check: False
+2025-01-25 12:26:40,527 - __main__ - INFO - fetching character id: missing name - d1523c5c-c0cb-4c89-9adf-c57e39383ad8
+2025-01-25 12:26:40,527 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/d1523c5c-c0cb-4c89-9adf-c57e39383ad8.json
+2025-01-25 12:26:40,655 - __main__ - INFO - last login: 2288912640
+2025-01-25 12:26:40,655 - __main__ - WARNING - character hasn't logged in since last fetch
+2025-01-25 12:26:40,656 - __main__ - INFO - has logged in since last check: False
+2025-01-25 12:26:40,656 - __main__ - INFO - fetching character id: missing name - 4fd45961-39af-42ee-9a14-b19fb9ed3160
+2025-01-25 12:26:40,656 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/4fd45961-39af-42ee-9a14-b19fb9ed3160.json
+2025-01-25 12:26:40,792 - __main__ - INFO - last login: 2288912640
+2025-01-25 12:26:40,792 - __main__ - WARNING - character hasn't logged in since last fetch
+2025-01-25 12:26:40,792 - __main__ - INFO - has logged in since last check: False
+2025-01-25 12:26:40,792 - __main__ - INFO - fetching character id: missing name - 9d9d53d0-b5e0-11ef-b790-856e38926482
+2025-01-25 12:26:40,792 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/9d9d53d0-b5e0-11ef-b790-856e38926482.json
+2025-01-25 12:26:40,932 - __main__ - INFO - last login: 1735607505
+2025-01-25 12:26:40,932 - __main__ - INFO - character may have logged in - but no changes
+2025-01-25 12:26:40,932 - __main__ - INFO - has logged in since last check: False
+2025-01-25 12:26:40,932 - __main__ - INFO - fetching character id: missing name - f8dd1409-ac62-4e00-a609-fd6da1ab5386
+2025-01-25 12:26:40,932 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/f8dd1409-ac62-4e00-a609-fd6da1ab5386.json
+2025-01-25 12:26:41,073 - __main__ - INFO - last login: 2288912640
+2025-01-25 12:26:41,073 - __main__ - WARNING - character hasn't logged in since last fetch
+2025-01-25 12:26:41,073 - __main__ - INFO - has logged in since last check: False
+2025-01-25 12:26:41,073 - __main__ - INFO - fetching character id: missing name - 1fde71b7-b9ac-477c-a35c-0a697e116174
+2025-01-25 12:26:41,073 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/1fde71b7-b9ac-477c-a35c-0a697e116174.json
+2025-01-25 12:26:41,198 - __main__ - INFO - last login: 2288912640
+2025-01-25 12:26:41,198 - __main__ - WARNING - character hasn't logged in since last fetch
+2025-01-25 12:26:41,198 - __main__ - INFO - has logged in since last check: False
+2025-01-25 12:26:41,198 - __main__ - INFO - fetching character id: Biscathy - 87ac74b0-c6f8-11ef-999f-5532e7ed31ae
+2025-01-25 12:26:41,198 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/87ac74b0-c6f8-11ef-999f-5532e7ed31ae.json
+2025-01-25 12:26:41,337 - __main__ - INFO - last login: 1737508320
+2025-01-25 12:26:41,338 - __main__ - INFO - character may have logged in - but no changes
+2025-01-25 12:26:41,338 - __main__ - INFO - has logged in since last check: False
+2025-01-25 12:26:41,338 - __main__ - INFO - fetching character id: missing name - a637f0f9-5ea9-4779-8b02-be8486e91d56
+2025-01-25 12:26:41,338 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/a637f0f9-5ea9-4779-8b02-be8486e91d56.json
+2025-01-25 12:26:41,453 - __main__ - INFO - last login: 2288912640
+2025-01-25 12:26:41,453 - __main__ - WARNING - character hasn't logged in since last fetch
+2025-01-25 12:26:41,453 - __main__ - INFO - has logged in since last check: False
+2025-01-25 12:26:41,453 - __main__ - INFO - completed processing account: 314620159
+2025-01-25 12:26:41,453 - __main__ - INFO - COMPLETE EXECUTE
