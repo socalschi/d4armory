@@ -385,3 +385,90 @@
 2025-03-04 12:32:17,149 - __main__ - INFO - has logged in since last check: True
 2025-03-04 12:32:17,149 - __main__ - INFO - completed processing account: 314620159
 2025-03-04 12:32:17,149 - __main__ - INFO - COMPLETE EXECUTE
+2025-03-05 01:15:06,545 - __main__ - DEBUG - getting env var: DATA_PATH
+2025-03-05 01:15:06,545 - __main__ - DEBUG - couldn't get env var DATA_PATH - using default: data
+2025-03-05 01:15:06,545 - __main__ - INFO - START EXECUTE
+2025-03-05 01:15:06,545 - __main__ - INFO - processing account: 314620159
+2025-03-05 01:15:06,545 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159.json
+2025-03-05 01:15:06,855 - __main__ - INFO - fetching character id: missing name - 91ba5950-5415-11ef-a663-69f159cb7bb4
+2025-03-05 01:15:06,855 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/91ba5950-5415-11ef-a663-69f159cb7bb4.json
+2025-03-05 01:15:06,987 - __main__ - INFO - last login: 2288912640
+2025-03-05 01:15:06,987 - __main__ - WARNING - character hasn't logged in since last fetch
+2025-03-05 01:15:06,987 - __main__ - INFO - has logged in since last check: False
+2025-03-05 01:15:06,987 - __main__ - INFO - fetching character id: Biscathy - 7dfcfa70-ab96-11ef-b44b-856e38926482
+2025-03-05 01:15:06,987 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/7dfcfa70-ab96-11ef-b44b-856e38926482.json
+2025-03-05 01:15:07,134 - __main__ - INFO - last login: 1736126136
+2025-03-05 01:15:07,134 - __main__ - INFO - character may have logged in - but no changes
+2025-03-05 01:15:07,134 - __main__ - INFO - has logged in since last check: False
+2025-03-05 01:15:07,135 - __main__ - INFO - fetching character id: missing name - 2a1ae4b9-e9ea-4ccc-9d28-99218c325843
+2025-03-05 01:15:07,135 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/2a1ae4b9-e9ea-4ccc-9d28-99218c325843.json
+2025-03-05 01:15:07,266 - __main__ - INFO - last login: 2288912640
+2025-03-05 01:15:07,267 - __main__ - WARNING - character hasn't logged in since last fetch
+2025-03-05 01:15:07,267 - __main__ - INFO - has logged in since last check: False
+2025-03-05 01:15:07,267 - __main__ - INFO - fetching character id: Biscathy - 50c76d90-89ce-11ef-bb13-2d031a7c8749
+2025-03-05 01:15:07,267 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/50c76d90-89ce-11ef-bb13-2d031a7c8749.json
+2025-03-05 01:15:07,432 - __main__ - INFO - last login: 1737508319
+2025-03-05 01:15:07,432 - __main__ - INFO - character may have logged in - but no changes
+2025-03-05 01:15:07,432 - __main__ - INFO - has logged in since last check: False
+2025-03-05 01:15:07,432 - __main__ - INFO - fetching character id: missing name - d1523c5c-c0cb-4c89-9adf-c57e39383ad8
+2025-03-05 01:15:07,433 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/d1523c5c-c0cb-4c89-9adf-c57e39383ad8.json
+2025-03-05 01:15:07,569 - __main__ - INFO - last login: 2288912640
+2025-03-05 01:15:07,569 - __main__ - WARNING - character hasn't logged in since last fetch
+2025-03-05 01:15:07,569 - __main__ - INFO - has logged in since last check: False
+2025-03-05 01:15:07,569 - __main__ - INFO - fetching character id: missing name - 4fd45961-39af-42ee-9a14-b19fb9ed3160
+2025-03-05 01:15:07,569 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/4fd45961-39af-42ee-9a14-b19fb9ed3160.json
+2025-03-05 01:15:07,701 - __main__ - INFO - last login: 2288912640
+2025-03-05 01:15:07,701 - __main__ - WARNING - character hasn't logged in since last fetch
+2025-03-05 01:15:07,701 - __main__ - INFO - has logged in since last check: False
+2025-03-05 01:15:07,702 - __main__ - INFO - fetching character id: missing name - 9d9d53d0-b5e0-11ef-b790-856e38926482
+2025-03-05 01:15:07,702 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/9d9d53d0-b5e0-11ef-b790-856e38926482.json
+2025-03-05 01:15:07,831 - __main__ - INFO - last login: 1735607505
+2025-03-05 01:15:07,831 - __main__ - INFO - character may have logged in - but no changes
+2025-03-05 01:15:07,831 - __main__ - INFO - has logged in since last check: False
+2025-03-05 01:15:07,831 - __main__ - INFO - fetching character id: missing name - f8dd1409-ac62-4e00-a609-fd6da1ab5386
+2025-03-05 01:15:07,831 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/f8dd1409-ac62-4e00-a609-fd6da1ab5386.json
+2025-03-05 01:15:07,956 - __main__ - INFO - last login: 2288912640
+2025-03-05 01:15:07,956 - __main__ - WARNING - character hasn't logged in since last fetch
+2025-03-05 01:15:07,956 - __main__ - INFO - has logged in since last check: False
+2025-03-05 01:15:07,957 - __main__ - INFO - fetching character id: missing name - 1fde71b7-b9ac-477c-a35c-0a697e116174
+2025-03-05 01:15:07,957 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/1fde71b7-b9ac-477c-a35c-0a697e116174.json
+2025-03-05 01:15:08,065 - __main__ - INFO - last login: 2288912640
+2025-03-05 01:15:08,066 - __main__ - WARNING - character hasn't logged in since last fetch
+2025-03-05 01:15:08,066 - __main__ - INFO - has logged in since last check: False
+2025-03-05 01:15:08,066 - __main__ - INFO - fetching character id: Biscathy - 87ac74b0-c6f8-11ef-999f-5532e7ed31ae
+2025-03-05 01:15:08,066 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/87ac74b0-c6f8-11ef-999f-5532e7ed31ae.json
+2025-03-05 01:15:08,188 - __main__ - INFO - last login: 1737508320
+2025-03-05 01:15:08,188 - __main__ - INFO - character may have logged in - but no changes
+2025-03-05 01:15:08,189 - __main__ - INFO - has logged in since last check: False
+2025-03-05 01:15:08,189 - __main__ - INFO - fetching character id: missing name - a637f0f9-5ea9-4779-8b02-be8486e91d56
+2025-03-05 01:15:08,189 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/a637f0f9-5ea9-4779-8b02-be8486e91d56.json
+2025-03-05 01:15:08,335 - __main__ - INFO - last login: 2288912640
+2025-03-05 01:15:08,335 - __main__ - WARNING - character hasn't logged in since last fetch
+2025-03-05 01:15:08,335 - __main__ - INFO - has logged in since last check: False
+2025-03-05 01:15:08,335 - __main__ - INFO - fetching character id: CeoKuMiama - e8878290-d821-11ef-ae2a-cd88d017dcbf
+2025-03-05 01:15:08,335 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/e8878290-d821-11ef-ae2a-cd88d017dcbf.json
+2025-03-05 01:15:08,466 - __main__ - INFO - last login: 1740486762
+2025-03-05 01:15:08,466 - __main__ - INFO - character may have logged in - but no changes
+2025-03-05 01:15:08,466 - __main__ - INFO - has logged in since last check: False
+2025-03-05 01:15:08,466 - __main__ - INFO - fetching character id: ChensuTchian - 024999a0-d900-11ef-9ac8-750b286e39b4
+2025-03-05 01:15:08,466 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/024999a0-d900-11ef-9ac8-750b286e39b4.json
+2025-03-05 01:15:08,588 - __main__ - INFO - last login: 1741050922
+2025-03-05 01:15:08,588 - __main__ - WARNING - character hasn't logged in since last fetch
+2025-03-05 01:15:08,588 - __main__ - INFO - has logged in since last check: False
+2025-03-05 01:15:08,589 - __main__ - INFO - fetching character id: missing name - f4ed3af1-26f1-4088-8be7-4acc33dc5f88
+2025-03-05 01:15:08,589 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/f4ed3af1-26f1-4088-8be7-4acc33dc5f88.json
+2025-03-05 01:15:08,722 - __main__ - INFO - last login: 2288912640
+2025-03-05 01:15:08,722 - __main__ - WARNING - character hasn't logged in since last fetch
+2025-03-05 01:15:08,722 - __main__ - INFO - has logged in since last check: False
+2025-03-05 01:15:08,722 - __main__ - INFO - fetching character id: PaulaTejano - 38b80bf0-d9f7-11ef-b435-6b52c376b294
+2025-03-05 01:15:08,722 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/38b80bf0-d9f7-11ef-b435-6b52c376b294.json
+2025-03-05 01:15:08,843 - __main__ - INFO - last login: 1741050923
+2025-03-05 01:15:08,843 - __main__ - WARNING - character hasn't logged in since last fetch
+2025-03-05 01:15:08,843 - __main__ - INFO - has logged in since last check: False
+2025-03-05 01:15:08,844 - __main__ - INFO - fetching character id: KoiTanao - 75f0b3d0-ed45-11ef-83c9-4b271930db60
+2025-03-05 01:15:08,844 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/314620159/75f0b3d0-ed45-11ef-83c9-4b271930db60.json
+2025-03-05 01:15:08,980 - __main__ - INFO - last login: 1741050924
+2025-03-05 01:15:08,980 - __main__ - WARNING - character hasn't logged in since last fetch
+2025-03-05 01:15:08,980 - __main__ - INFO - has logged in since last check: False
+2025-03-05 01:15:08,980 - __main__ - INFO - completed processing account: 314620159
+2025-03-05 01:15:08,980 - __main__ - INFO - COMPLETE EXECUTE
